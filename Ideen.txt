@@ -1,2 +1,0 @@
-I) Auf wie viele Nullen endet 27! in Dezimaldarstellung? Gesucht ist nicht nach einem Taschenrechner, der die Zahl ausrechnet, sondern nach einer allgemeinen Regel, die dann diese Frage für dich einfach löst.
-
