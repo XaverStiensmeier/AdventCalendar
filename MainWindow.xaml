@@ -11,8 +11,8 @@
             <Label x:Name="checkBox" Content="Michael Mastej &amp; Xaver Stiensmeier" HorizontalAlignment="Left" Margin="412,304,0,0" VerticalAlignment="Top"/>
         </Grid>
     </Viewbox>
-    
+
     <Window.Background>
-        <ImageBrush ImageSource="C:\Users\mmast\OneDrive\Desktop\Kalender\img/first.png" Stretch="Fill" />
+        <ImageBrush ImageSource="C:\Users\mmast\OneDrive\Desktop\Kalender\img/first/first.png" Stretch="Fill" />
     </Window.Background>
 </Window>
