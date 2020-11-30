@@ -13,6 +13,6 @@
     </Viewbox>
 
     <Window.Background>
-        <ImageBrush ImageSource="C:\Users\mmast\OneDrive\Desktop\Kalender\img/first/first.png" Stretch="Fill" />
+        <ImageBrush ImageSource="first.png" Stretch="Fill" />
     </Window.Background>
 </Window>
