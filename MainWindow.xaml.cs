@@ -143,7 +143,7 @@ namespace Kalender
         {
             string[,] questions = new string[24, 2] { 
                 { "Name the king, who tried to kill Jesus as a child (five letters) ", "Herod" },       //1
-                { "How do you call the pickle that can be found in the toolbox (folder) (two words, each five letters)", "German pickle" },     //2
+                { "How do you call the pickle that can be found in the toolbox (folder) (two words, each six letters)", "German pickle" },     //2
                 { "At Christmas some of us celebrate the birth of Jesus... Talking about birthdays:\nAssuming there are sixteen people in a room " +  //3
                 "what is the chance that at least two of them share their birthday.\n(assume that there are no leap years; 365 days)(example: write 93.5% as 0.94)",
                     "0.28" }, 
