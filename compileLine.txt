@@ -1,1 +1,1 @@
-mcs main.cs -r:System.Windows.Forms -r:System.Drawing
+csc MainWindow.xaml.cs DialogBox.xaml.cs -r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationFramework.dll" -r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\WindowsBase.dll" -r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationCore.dll"

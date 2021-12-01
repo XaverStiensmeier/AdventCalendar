@@ -37,7 +37,7 @@ namespace Kalender
             }
             else
             {
-                MessageBox.Show("Your first time?");   //Ergänze! Begrüßung + Erläuterung der Regeln
+                MessageBox.Show("Your first time? Enjoy the show! Words are always separated by a space.\nDon't be afraid to ask if anything is weird :)");   //Ergänze! Begrüßung + Erläuterung der Regeln
             }
 
             //for()
@@ -152,7 +152,7 @@ namespace Kalender
                 { "According to the Swedes I live in Dalarna, the Danes are looking for me in Greenland, the Americans think I am at the North Pole. " +        //6
                 "\nToday I am not in any of those places. Today I have to work... Who am I?",
                     "Santa Claus" }, 
-                { "Which pope introduced the custom of the Christmas tree? (St. Peter's Square; without leading 'pope', two words and a roman number)", "Johannes Paul II" },     //7
+                { "Which pope introduced the custom of the Christmas tree? (St. Peter's Square; without leading 'pope', two words and a roman number)", "Johan Paul II" },     //7
                 { "In 2020 not everything was bad (or was it?), for example there was a really bright comet that will not return for many years.\n" +            //8
                 "The approximated next sight will be: 10001001110100. Our questions is: Will this year be a leap year?",
                     "Yes" }, 
@@ -160,7 +160,7 @@ namespace Kalender
                 { "I am a pioneer in my field. My two children, one of whom bears the name of my home country and the other one is radiantly beautiful, have helped me to achieve this." +
                 "\nBut for all the glory my children have brought me, my love for them was to seal my fate . For more than a hundred years I was probably the first they murdered, but by no means the last." +
                 "\nToday they are to be banished forever, for too much terror clings to their abilities. Who am I? (Use only latin letters.Three words: five, ten, five letters)", "Maria Sklodowska Curie" },   //10
-                { "In the toolbox you can find a well known sweet, probably you know its name. It comes from the latin name ... (nine letters)", "speculator" },        //11
+                { "In the toolbox you can find a well known sweet, probably you know its name. It comes from the latin name ... (ten letters)", "speculator" },        //11
                 { "The mistletoe is the holy plant of the goddess... (five letters)", "Frigg" },        //12
                 { "How do we usually call Furanoeudesma-1,3-dien? (five letters)", "Myrrh" },       //13
                 { "In the toolbox is a .wav file called 'Rhythm of Kyai.mp3'. The music represents a very famous sequence. How is it called? " +  //14
